@@ -1,0 +1,157 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.topo{
+  background-color: rgb(15, 175, 238);
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+  left: 50%;
+}
+.topo h6, i{
+  margin-top: 60px;
+  display: inline;
+  color: white;
+}
+.title{
+  margin-top: 30px;
+}
+.title h1{
+  font-size: 4rem;
+}
+.azul-claro{
+  color: rgb(15, 175, 238);
+}
+.azul-escuro{
+  color: rgb(8, 105, 143);
+}
+
+.subtitle{
+  border-left: 1px solid rgb(15, 175, 238);
+  margin-top: 30px;
+}
+.subtitle h4{
+  color: rgb(31, 142, 185);
+}
+.img-doctor img{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 70%;
+}
+
+.bottom{
+  background-image: url(/Ativo\ 1.png);
+  background-size: cover;
+  width: 100%;
+  height: 40%;
+  position: fixed;
+  bottom: 0;
+  z-index: -1;
+}
+.bottom img{
+  margin-left: 40%;
+}
+.bottom .start{
+  background-color: rgb(31, 142, 185);
+  padding: 5px 10px;
+  font-size: 0.8rem;
+  position: relative;
+  top: 200%;
+  text-decoration: none;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+.bottom .link{
+  position: absolute;
+  color: white;
+  font-size: 0.6rem;
+  bottom: 10px;
+}
+
+/*PAGE 2*/
+
+.topo2{
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+  left: 60%;
+}
+.topo2 h6, i{
+  margin-top: 0px;
+  display: inline;
+  color: rgb(15, 175, 238)
+}
+.ativo2{
+  display: inline;
+}
+.ativo2 img{
+  width: 60px;
+  margin: 15px;
+}
+
+.title2{
+  margin-top: 50px;
+}
+.title2 h1{
+  font-size: 2.5rem;
+}
+.title2 p{
+  width: 90%;
+  margin-top: 30px;
+}
+.imagens .doctor{
+  border: 5px solid rgb(8, 105, 143);
+  border-radius: 25px;
+  width: 70%;
+  margin-top: 30px;
+  z-index: 999;
+}
+.bottom2{
+  position: absolute;
+  bottom: 0;
+  height: 20%;
+  width: 100%;
+  background-color: rgb(31, 142, 185);
+  border-radius: 10px;
+  z-index: -1;
+}
+.bottom2 .esquerda {
+  color: white;
+  position: absolute;
+  bottom: 20px;
+  right: 15%;
+  text-decoration: none;
+  background-color: rgb(8, 105, 143);
+  padding: 3px 10px;
+  border-radius: 100%;
+}
+.bottom2 .direita{
+  color: white;
+  position: absolute;
+  bottom: 20px;
+  right: 5%;
+  background-color: rgb(8, 105, 143);
+  padding: 3px 10px;
+  border-radius: 100%;
+}
+.imagens i{
+  color: white;
+  background-color: rgb(8, 105, 143);
+  padding: 15px;
+  position: absolute;
+  bottom: 20%;
+  right: 25%;
+}
