@@ -297,6 +297,9 @@ right: 10%;
   color: white;
   font-size: 0.7rem;
 }
+.margintop{
+  margin-top: 65px;
+}
 .main h4{
   font-weight: bold;
 }
