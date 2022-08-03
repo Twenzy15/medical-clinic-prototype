@@ -279,7 +279,8 @@ right: 10%;
 }
 .main{
   background-color: rgb(15, 175, 238);
-  height: 80%;
+  height: auto;
+  padding: 10px;
   border-top-right-radius: 15px;
   border-bottom-left-radius: 15px;
   border-bottom-right-radius: 15px;
