@@ -354,6 +354,8 @@ right: 10%;
   background-color: rgb(31, 142, 185);
   height: 30%;
   margin-top: 5%;
+  display: flex;
+  align-items: center;
 }
 .main5 i{
   color: white;
@@ -362,20 +364,17 @@ right: 10%;
 .main5 h5, .main5 p{
   color: white;
   margin-left: 20%;
-  margin-top: 5%;
   font-size: 0.6rem;
 }
 .a{
-  position: absolute;
-  bottom: 30%;
+
 }
 .b{
-  position: absolute;
-  bottom: 20%;
+
 }
+
 .c{
-  position: absolute;
-  bottom: 10%;
+
 }
 
 
