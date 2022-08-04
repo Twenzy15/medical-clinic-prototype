@@ -244,6 +244,9 @@ position: absolute;
 top: 0;
 right: 10%;
 }
+.bottom3 i{
+  color: rgb(15, 175, 238);
+}
 .bottom3 .link3{
   text-decoration: none;
   color: rgb(31, 142, 185);
