@@ -439,4 +439,87 @@ right: 10%;
   color: rgb(15, 175, 238)
 }
 
+/*PAGE 7*/
+
+.topo7{
+  height: 25%;
+  background-color: rgb(15, 175, 238);
+}
+.topo7 i{
+  color: white;
+  left: 90px;
+  line-height: 20px;
+  padding-top: 20%;
+}
+.topo7 h6{
+  color: white;
+  left: 30px;
+}
+.topo7 h6, i{
+  padding-top: 20%;
+  position: absolute;
+}
+.topo7 img{
+  border: 5px solid white;
+
+}
+.topo7 .p7-1{
+  width: 30%;
+  border-radius: 20px;
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  width: 35%;
+}
+.topo7 .p7-2{
+  width: 50%;
+  border-right: none;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  position: absolute;
+  right: 0;
+  top: 5%;
+}
+.title7{
+  margin-top: 25%;
+}
+.title7 h1{
+  font-size: 2.5rem;
+}
+
+.cartao7{
+  width: 80%;
+  margin-top: 10%;
+  height: 5%;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.cartao7 p{
+  color: black;
+  display: inline;
+  padding-top:3%;
+  padding-left: 5%;
+}
+
+.cartao7p{
+  background-color: rgb(15, 175, 238);
+  width: 80%;
+  margin-top: 10%;
+  height: 5%;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.cartao7p p{
+  padding-top:2%;
+  padding-left: 5%;
+}
+.webview .cartao7p p,.webview .cartao7p span{
+  color: white;
+  display: inline;
+}
+.cartao7 span, .cartao7p span{
+  font-size: 2rem;
+  padding-bottom: 1%;
+}
+
 
