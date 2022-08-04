@@ -267,7 +267,7 @@ right: 10%;
 
 .topo4 .i-logo{
   color: rgb(15, 175, 238);
-  right: 30px;
+  right: 25px;
   line-height: 20px;
   font-size: 16px;
 }
@@ -546,6 +546,9 @@ right: 10%;
   color: white;
   padding: 5px;
 }
+.topo8 i{
+  color: white;
+}
 
 .bottom8{
   position: absolute;
@@ -623,7 +626,7 @@ right: 10%;
 .infos h1{
   color: white;
   text-align: center;
-  padding-top: 0%;
+  padding-top: 10%;
   font-size: 1.7rem;
 }
 .infos p{
@@ -634,7 +637,7 @@ right: 10%;
   color: white;
   text-align: center;
   padding-top: 10%;
-  font-size: 1.5rem;
+  font-size: 1.7rem;
 }
 .infos2 p{
   text-align: center;
@@ -651,3 +654,44 @@ right: 10%;
   border-radius: 10px;
 }
 
+/*PAGE 9*/
+
+.title9 h1{
+  font-size: 2.3rem;
+}
+
+.main9{
+  width: 90%;
+  background-color: rgb(15, 175, 238);
+  height: 25%;
+  margin-top: 10%;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+.main9 p{
+  padding: 15px;
+  margin-top: 10%;
+}
+.main9 img{
+  width: 70%;
+  margin-left: 12%;
+}
+.preto{
+  color: black;
+}
+.topo9{
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+  left: 60%;
+  padding-top: 20%;
+}
+.topo9 h6, i{
+  display: inline;
+  padding: 5px;
+  color: rgb(15, 175, 238)
+}
