@@ -601,7 +601,7 @@ right: 10%;
 .doctors img{
   width: 50%;
   margin-left: 25%;
-  margin-top: 30%;
+  margin-top: 40%;
   z-index: 1;
 }
 .doctors .doctor2{
@@ -612,9 +612,9 @@ right: 10%;
 
 .infos{
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 7%;
-  height: 30%;
+  height: 20%;
   width: 40%;
   background-color: rgb(8, 105, 143);
   border-radius: 10px;
@@ -622,29 +622,29 @@ right: 10%;
 .infos h1{
   color: white;
   text-align: center;
-  padding-top: 40%;
+  padding-top: 10%;
   font-size: 1.5rem;
 }
 .infos p{
   text-align: center;
-  margin-top: 20%;
+  margin-top: 10%;
 }
 .infos2 h1{
   color: white;
   text-align: center;
-  padding-top: 40%;
+  padding-top: 10%;
   font-size: 1.5rem;
 }
 .infos2 p{
   text-align: center;
-  margin-top: 20%;
+  margin-top: 10%;
 }
 
 .infos2{
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 52.5%;
-  height: 30%;
+  height: 20%;
   width: 40%;
   background-color: rgb(8, 105, 143);
   border-radius: 10px;
