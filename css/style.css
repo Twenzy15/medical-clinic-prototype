@@ -18,6 +18,10 @@ html,body,.webview{
   position: relative;
   left: 50%;
 }
+.i-1{
+  color: white;
+  padding: 5px;
+}
 .topo h6, i{
   margin-top: 60px;
   display: inline;
@@ -183,10 +187,11 @@ html,body,.webview{
   color: rgb(15, 175, 238);
   right: 30px;
   line-height: 20px;
+  padding-top: 20%;
 }
 .topo3 h6{
   color: rgb(15, 175, 238);
-  right: 50px;
+  right: 55px;
 }
 .topo3 h6, i{
   padding-top: 20%;
@@ -356,6 +361,7 @@ right: 10%;
   margin-top: 5%;
   display: flex;
   align-items: center;
+  padding-top: 10px;
 }
 .main5 i{
   color: white;
@@ -375,6 +381,63 @@ right: 10%;
 
 .c{
   padding: 0;
+}
+
+/*PAGE 6*/
+
+.imagens6{
+  background-image: url(/img/Screenshot_2.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 35%;
+  position:sticky;
+  top: 2000px;
+
+}
+.imagens6 a img{
+  width: 50%;
+  margin-left: 40%;
+}
+
+.imagens .esquerda i, .imagens .direita i{
+  color: white;
+  background: none;
+  position: absolute;
+  padding: 0;
+}
+.imagens6 .esquerda i{
+  right: 20%;
+  bottom: 10%;
+}
+.imagens6 .direita i{
+  right: 10%;
+  bottom: 10%;
+}
+
+.title6 h1{
+  font-size: 2.5rem;
+}
+.title6 p{
+  width: 90%;
+  margin-top: 30px;
+  color: black;
+}
+
+.topo6{
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  position: relative;
+  left: 60%;
+  padding-top: 20%;
+}
+.topo6 h6, i{
+  display: inline;
+  padding: 5px;
+  color: rgb(15, 175, 238)
 }
 
 
