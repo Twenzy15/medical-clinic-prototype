@@ -356,6 +356,9 @@ right: 10%;
   bottom: 40%;
   right: 10%;
 }
+.bottom5 i{
+  color: rgb(15, 175, 238);
+}
 
 .main5{
   border-radius: 15px;
@@ -608,7 +611,13 @@ right: 10%;
 .infos img{
   width: 60%;
   position: absolute;
-  top: -50%;
+  top: -65%;
+  left: 20%;
+}
+.infos2 img{
+  width: 60%;
+  position: absolute;
+  top: -65%;
   left: 20%;
 }
 .infos h1{
