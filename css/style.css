@@ -593,27 +593,8 @@ right: 10%;
     border-radius: 30px;
   }
 
-.doctors .doctor1{
-  width: 50%;
-  float: left;
-  display: flex;
-}
-.doctors img{
-  width: 20%;
-  margin-left: 25%;
-  margin-top: 40%;
-  z-index: 1;
-  position: absolute;
-}
-.doctor1 img{
-  right: 63%;
-  top: 36%;
-}
-.doctors .doctor2{
-  width: 50%;
-  float: right;
 
-}
+
 
 .infos{
   position: absolute;
@@ -624,10 +605,16 @@ right: 10%;
   background-color: rgb(8, 105, 143);
   border-radius: 10px;
 }
+.infos img{
+  width: 60%;
+  position: absolute;
+  top: -50%;
+  left: 20%;
+}
 .infos h1{
   color: white;
   text-align: center;
-  padding-top: 10%;
+  padding-top: 0%;
   font-size: 1.5rem;
 }
 .infos p{
