@@ -392,14 +392,13 @@ right: 10%;
   height: 35%;
   position:sticky;
   top: 2000px;
-
 }
 .imagens6 a img{
   width: 50%;
   margin-left: 40%;
 }
 
-.imagens .esquerda i, .imagens .direita i{
+.imagens6 .esquerda i, .imagens6 .direita i{
   color: white;
   background: none;
   position: absolute;
