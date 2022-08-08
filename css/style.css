@@ -7,7 +7,7 @@
 html,body,.webview{
   height: 100%;
   animation-name: opacidade;
-  animation-duration: 1s;
+  animation-duration: 1.5s;
 }
 
 .topo{
