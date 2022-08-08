@@ -613,7 +613,7 @@ right: 10%;
   position: absolute;
   top: 60%;
   left: 7%;
-  height: 20%;
+  height: 25%;
   width: 40%;
   background-color: rgb(8, 105, 143);
   border-radius: 10px;
@@ -657,7 +657,7 @@ right: 10%;
   position: absolute;
   top: 60%;
   left: 52.5%;
-  height: 20%;
+  height: 25%;
   width: 40%;
   background-color: rgb(8, 105, 143);
   border-radius: 10px;
@@ -709,7 +709,7 @@ right: 10%;
   font-size: 1.5rem;
 }
 
-/*  PAGE 8 BTN 1 */
+/*  PAGE 8 BTN 1 & 2 */
 
 .lorna img{
   width: 30%;
@@ -721,6 +721,8 @@ right: 10%;
 .descricao-lorna p{
   padding: 20px;
 }
+
+/* ANIMAÇÃO */
 
 @keyframes opacidade {
   from {opacity: 0;}
