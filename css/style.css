@@ -2,9 +2,12 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+
 }
 html,body,.webview{
   height: 100%;
+  animation-name: opacidade;
+  animation-duration: 1s;
 }
 
 .topo{
@@ -704,4 +707,22 @@ right: 10%;
 
 .direita i, .esquerda i{
   font-size: 1.5rem;
+}
+
+/*  PAGE 8 BTN 1 */
+
+.lorna img{
+  width: 30%;
+}
+.descricao-lorna h1{
+  color: white;
+  text-align: center;
+}
+.descricao-lorna p{
+  padding: 20px;
+}
+
+@keyframes opacidade {
+  from {opacity: 0;}
+  to {opacity: 1;}
 }
