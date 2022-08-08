@@ -212,6 +212,10 @@ html,body,.webview{
 .title3 h1{
   font-size: 2.5rem;
 }
+.title3 p{
+  color: black;
+  padding: 5px;
+}
 .cartao{
   background-color: rgb(15, 175, 238);
   width: 80%;
@@ -511,7 +515,7 @@ right: 10%;
   background-color: rgb(15, 175, 238);
   width: 80%;
   margin-top: 10%;
-  height: 5%;
+  height: 7%;
   border-bottom-right-radius: 10px;
   border-top-right-radius: 10px;
 }
@@ -632,6 +636,7 @@ right: 10%;
 .infos p{
   text-align: center;
   margin-top: 10%;
+  padding: 5px;
 }
 .infos2 h1{
   color: white;
@@ -642,6 +647,7 @@ right: 10%;
 .infos2 p{
   text-align: center;
   margin-top: 10%;
+  padding: 5px;
 }
 
 .infos2{
@@ -670,7 +676,7 @@ right: 10%;
 }
 .main9 p{
   padding: 15px;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 .main9 img{
   width: 70%;
@@ -694,4 +700,8 @@ right: 10%;
   display: inline;
   padding: 5px;
   color: rgb(15, 175, 238)
+}
+
+.direita i, .esquerda i{
+  font-size: 1.5rem;
 }
